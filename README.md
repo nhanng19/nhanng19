@@ -8,6 +8,6 @@ const nhan = {
   interest: [web development, dancing, reading, chess],
   favoriteBooks: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
   favoriteFood: [tacos, koreanBBQ, pho, chickFilA],
-  goal: "To bridge the gap between elegant design and responsive application"
+  goal: "To bridge the gap between elegant design and responsive application."
 }
 ```
