@@ -3,7 +3,7 @@
 
 ```javascript
 const nhan = {
-  code: [Javascript, React, HTML, CSS],
+  code: [Javascript, React, Node, Express, HTML, CSS],
   age: 22,
   interest: [web development, dancing, reading, music, chess],
   favoriteBooks: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
