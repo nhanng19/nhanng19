@@ -1,5 +1,4 @@
-### Hello World <img src="waving.gif" width="50">
-![](waving.gif){width=50}
+### Hello World <img src="waving.gif" width="30">
 
 ```javascript
 const nhan = {
