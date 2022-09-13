@@ -1,5 +1,5 @@
 ### Hello World 👋
-![](output-onlinegiftools (2).gif)
+![](waving.gif)
 
 ```javascript
 const nhan = {
