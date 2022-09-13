@@ -10,4 +10,4 @@ const nhan = {
   goal: "To bridge the gap between elegant design and responsive application."
 }
 ```
-<img src="codingdude.gif" width="100">
+<img src="codingdude.gif" width="1000">
