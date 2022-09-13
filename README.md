@@ -1,5 +1,6 @@
 ### Hello World <img src="waving.gif" width="20">
 
+## About me:
 ```javascript
 const nhan = {
   code: [Javascript, React, Node, Express, HTML, CSS],
