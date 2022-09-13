@@ -1,5 +1,5 @@
 ### Hello World 👋
-![](waving.gif | width=50)
+![](waving.gif){width=50}
 
 ```javascript
 const nhan = {
