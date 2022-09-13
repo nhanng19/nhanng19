@@ -1,5 +1,5 @@
 ### Hello World 👋
-![alt text](./output-onlinegiftools (2).gif)
+![](output-onlinegiftools (2).gif)
 
 ```javascript
 const nhan = {
