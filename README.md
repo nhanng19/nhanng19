@@ -7,7 +7,7 @@ const nhan = {
   age: 22,
   interest: [web development, dancing, reading, music, chess],
   favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
-  favoriteFood: [tacos, koreanBBQ, pho, chickFilA],
+  favoriteFood: [tacos, ramen, pho, chickFilA],
   goal: "To bridge the gap between elegant design and responsive application."
 }
 ```
