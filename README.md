@@ -21,4 +21,4 @@ const nhan = {
 
 ------------------
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanng19&layout=compact&langs_count=10&hide=qml,qmake&theme=github-dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanng19&layout=compact&langs_count=10&hide=qml,qmake&theme=github_dark)
