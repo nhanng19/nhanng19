@@ -1,5 +1,7 @@
 ### Hello World <img src="waving.gif" width="20">
 
+### My name is Nhan Nguyen
+
 **`Digital Craftsman (Developer/Dancer/Creator)`**
 
 A little about me...
