@@ -17,4 +17,4 @@ const nhan = {
 
 ### 📊 Stats
 
-![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=gruvbox)
+![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark)
