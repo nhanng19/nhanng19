@@ -1,5 +1,7 @@
 ### Hello World <img src="waving.gif" width="20">
 
+**`Digital Craftsman (Developer/Dancer/Creator)`**
+
 A little about me...
 ```javascript
 const nhan = {
