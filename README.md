@@ -14,3 +14,7 @@ const nhan = {
 }
 ```
 <img src="codingdude.gif" width="500">
+
+### 📊 Stats
+
+![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=gruvbox)
