@@ -1,6 +1,8 @@
 ### Hello World <img src="waving.gif" width="20">
 
-<img src="littledude.gif" width="100"> **`Digital Creative (Developer/Dancer/Creator)`**
+<img src="littledude.gif" width="100"> 
+
+**`Digital Creative (Developer/Dancer/Creator)`**
 
 A little about me...
 ```javascript
