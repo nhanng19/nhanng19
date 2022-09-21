@@ -15,5 +15,10 @@ const nhan = {
   goal: "To bridge the gap between elegant design and responsive application."
 }
 ```
+------------------
 
-![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanng19&layout=compact&langs_count=10&hide=qml,qmake&theme=vue-dark)
+![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark) 
+
+------------------
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhanng19&layout=compact&langs_count=10&hide=qml,qmake&theme=github-dark)
