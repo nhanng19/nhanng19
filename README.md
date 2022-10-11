@@ -2,7 +2,7 @@
 
 <img src="littledude.gif" width="100"> 
 
-**`Digital Creative (Developer/Dancer/Creator)`**
+**`Digital Creative`**
 
 A little about me...
 ```javascript
