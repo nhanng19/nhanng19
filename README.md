@@ -1,6 +1,6 @@
 ### Hello World <img src="waving.gif" width="20">
 
-<pre><img src="littledude.gif" width="100">                                              ![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark)</pre>
+<img src="littledude.gif" width="100">
 
 **`Digital Creative`**
 
