@@ -1,6 +1,5 @@
 ### Hello World <img src="waving.gif" width="20">
-
-<div> <img src="littledude.gif" width="100"> <div align = "right">![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark)</div> </div>
+<img src="littledude.gif" width="100"> <div align = "right">![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark)</div>
 
 **`Digital Creative`**
 
