@@ -1,5 +1,12 @@
 ### Hello World <img src="waving.gif" width="20">
+
 <img src="littledude.gif" width="100"> <div position = "absolute" align = "right">![Nhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark)</div>
+<table>
+  <tr>
+    <td valign="top"><img src="littledude.gif" width="100"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=nhanng19&show_icons=true&theme=github_dark"/></td>
+  </tr>
+</table>
 
 **`Digital Creative`**
 
