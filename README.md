@@ -14,7 +14,6 @@ A little about me...
 ```javascript
 const nhan = {
   code: [Javascript, React, Node, Express, HTML, CSS],
-  age: 22,
   interest: [web development, dancing, reading, music, chess],
   favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
   favoriteFood: [tacos, ramen, pho, chickFilA],
