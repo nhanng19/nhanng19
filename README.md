@@ -17,7 +17,7 @@ const nhan = {
   interest: [web development, dancing, reading, music, chess],
   favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
   favoriteFood: [tacos, ramen, pho, chickFilA],
-  goal: "To bridge the gap between elegant design and responsive application."
+  goal: "Provide immersive digital experiences through pixel perfect design and development"
 }
 ```
 ------------------
