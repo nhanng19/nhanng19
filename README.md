@@ -13,10 +13,6 @@
 A little about me...
 ```javascript
 const nhan = {
-  experience: {
-        Altametrics: Front-End Developer,
-        edX: Instructional Staff
-  }
   code: [Javascript, React, Node, Express, HTML, CSS, MySQL, MongoDB],
   interest: [web development, dancing, reading, music, chess],
   favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
