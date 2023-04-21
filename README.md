@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-**`Digital Creative`**
+**`Nhan Nguyen`**
 
 
 A little about me...
