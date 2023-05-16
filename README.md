@@ -15,7 +15,7 @@ A little about me...
 const nhan = {
   code: [Javascript, React, Node, Express, HTML, CSS, MySQL, MongoDB],
   interest: [web development, dancing, reading, music, chess],
-  favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Courage to be Disliked"],
+  favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "The Gospel of Matthew"],
   favoriteFood: [tacos, ramen, pho, chickFilA],
   goal: "Provide immersive digital experiences through pixel perfect design and development"
 }
