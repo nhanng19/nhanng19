@@ -14,6 +14,7 @@ A little about me...
 ```javascript
 const nhan = {
   code: [Javascript, React, Node, Express, HTML, CSS, MySQL, MongoDB],
+  animation: [lottie, framerMotion, aos, skollr, keyframes],
   interest: [web development, dancing, reading, music, chess],
   favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "Matthew"],
   favoriteFood: [tacos, ramen, pho, chickFilA],
