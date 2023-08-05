@@ -13,12 +13,11 @@
 A little about me...
 ```javascript
 const nhan = {
-  code: [Javascript, React, Node, Express, HTML, CSS, MySQL, MongoDB],
+  code: [Typescript, Next.js, Node, Express, SASS, MySQL, MongoDB],
   animation: [lottie, motion, aos, skollr, keyframes, gsap],
   interest: [web development, dancing, reading, music, chess],
   favoriteBook: ["When Breathe becomes Air", "Conversations with God", "Sapiens", "Matthew"],
   favoriteFood: [tacos, ramen, pho, chickFilA],
-  goal: "Provide immersive digital experiences through pixel perfect design and development"
 }
 ```
 ------------------
