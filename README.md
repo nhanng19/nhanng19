@@ -1,4 +1,4 @@
-### Hello World <img src="waving.gif" width="30">
+### Hello World <img src="waving.gif" width="40">
 
 <table>
   <tr>
